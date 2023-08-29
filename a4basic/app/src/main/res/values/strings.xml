@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">a4-basic</string>
+    <string-array name="terms_array">
+        <item>W21</item>
+        <item>S21</item>
+        <item>F21</item>
+        <item>W22</item>
+        <item>S22</item>
+        <item>F22</item>
+        <item>W23</item>
+        <item>S23</item>
+        <item>F23</item>
+        <item>W24</item>
+    </string-array>
+    <string-array name="filter_array">
+        <item>All Courses</item>
+        <item>CS Only</item>
+        <item>Math Only</item>
+        <item>Other Only</item>
+    </string-array>
+    <string-array name="sort_array">
+        <item>By Course Code</item>
+        <item>By Term</item>
+        <item>By Mark</item>
+    </string-array>
+</resources>
